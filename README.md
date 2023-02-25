@@ -1,2 +1,2 @@
 # MaterialCalculator
-A material calculator for Genhisn
+A material calculator for Genshin
